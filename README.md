@@ -1,12 +1,12 @@
-# React + Vite
+Movie App 🎬
+A modern, responsive movie discovery application built with React that helps you find movies you'll enjoy without the hassle. Browse trending movies, search through thousands of titles, and explore detailed movie information with a beautiful, intuitive interface.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔥 Trending Movies: Discover what's popular this week
+🔍 Smart Search: Real-time search with debounced input
+📱 Responsive Design: Beautiful UI that works on all devices
+📄 Pagination: Browse through thousands of movies efficiently
+⭐ Movie Details: View ratings, release dates, and language information
+🎨 Modern UI: Clean, gradient-based design with smooth animations
+⚡ Fast Loading: Optimized with loading states and error handling
